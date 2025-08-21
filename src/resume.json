@@ -7,9 +7,9 @@
     "x_title": "Hey There! Glad you're here",
     "summary": "Going on 9 years of experience in Engineering. Currently I’m researching in AI world. I’m interested in Image Processing , Deep Learning , Computer Vision.",
     "location": {
-      "country": "Iran",
-      "countryCode": "IR",
-      "region": "Tehran"
+      "country": "Türkiye",
+      "countryCode": "TR",
+      "region": "Istanbul"
     },
     "profiles": [
       {
@@ -31,9 +31,9 @@
       "position": "Researcher",
       "company": "Islamic Azad University , South Tehran Branch",
       "startDate": "2020-09-22",
-      "endDate": "2024",
-      "summary": "Image Classification",
-      "highlights": ["Object Detection"]
+      "endDate": "2025",
+      "summary": "Computer Vision Projects",
+      "highlights": ["Image Classification", "Object Detection", "Image Segmentation"]
     },
     {
       "position": "Web Developer",
@@ -78,27 +78,27 @@
   "skills": [
     {
       "name": "Feature Extraction",
-      "level": "Basic",
+      "level": "Intermediate",
       "keywords": ["CV"]
     },
     {
       "name": "Image Classification",
-      "level": "Basic",
+      "level": "Intermediate",
       "keywords": ["CV"]
     },
     {
       "name": "Object Detection",
-      "level": "Basic",
+      "level": "Intermediate",
       "keywords": ["CV"]
     },
     {
       "name": "Image Segmentation",
-      "level": "Basic",
+      "level": "Intermediate",
       "keywords": ["CV"]
     },
     {
       "name": "Object Tracking",
-      "level": "Basic",
+      "level": "Intermediate",
       "keywords": ["CV"]
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "name": "CNN",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": ["DL"]
     },
     {
@@ -181,47 +181,42 @@
 
     {
       "name": "Python",
-      "level": "Intermediate",
-      "keywords": ["Programming Languages"]
-    },
-    {
-      "name": "C",
-      "level": "Learning",
+      "level": "Advanced",
       "keywords": ["Programming Languages"]
     },
     {
       "name": "C++",
-      "level": "Learning",
-      "keywords": ["Programming Languages"]
-    },
-    {
-      "name": "Matlab",
-      "level": "Learning",
+      "level": "Basic",
       "keywords": ["Programming Languages"]
     },
 
     {
-      "name": "Numpy , Pandas , Matplotlib",
-      "level": "Intermediate",
+      "name": "Numpy, Pandas, Matplotlib",
+      "level": "Advanced",
       "keywords": ["Packages"]
     },
     {
       "name": "OpenCV",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": ["Packages"]
     },
     {
       "name": "Scikit-Learn",
-      "level": "Basic",
+      "level": "Intermediate",
       "keywords": ["Packages"]
     },
     {
       "name": "PyTorch",
-      "level": "Basic",
+      "level": "Intermediate",
       "keywords": ["Packages"]
     },
     {
-      "name": "TensorFlow , Keras",
+      "name": "Gymnasium (RL)",
+      "level": "Intermediate",
+      "keywords": ["Packages"]
+    },
+    {
+      "name": "TensorFlow, Keras",
       "level": "Learning",
       "keywords": ["Packages"]
     },
@@ -242,19 +237,24 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Git , Github",
+      "name": "Git, Github",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "MySQL",
-      "level": "Basic",
+      "name": "MySQL, MongoDB",
+      "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "MongoDB",
-      "level": "Basic",
+      "name": "QT",
+      "level": "Intermediate",
       "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Flask, FastAPI",
+      "level": "Intermediate",
+      "keywords": ["Packages"]
     },
 
 
@@ -275,16 +275,20 @@
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Fluent speaker"
+      "language": "Turkish",
+      "fluency": "Native or bilingual proficiency"
     },
     {
-      "language": "Turkish",
-      "fluency": "Fluent speaker"
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary proficiency"
     },
     {
       "language": "Persian",
-      "fluency": "Native speaker"
+      "fluency": "Native or bilingual proficiency"
     }
   ],
   "interests": [
