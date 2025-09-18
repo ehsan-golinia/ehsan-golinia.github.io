@@ -1,0 +1,316 @@
+{
+  "basics": {
+    "name": "Ehsan Golinia",
+    "label": "Computer Vision Engineer",
+    "picture": "images/ehsan.webp",
+    "x_pictureFallback": "images/ehsan.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "Going on 9 years of experience in Engineering. Currently I’m researching in AI world. I’m interested in Image Processing , Deep Learning , Computer Vision.",
+    "location": {
+      "country": "Türkiye",
+      "countryCode": "TR",
+      "region": "Istanbul"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ehsangolinia",
+        "url": "https://www.linkedin.com/in/ehsangolinia",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "ehsan-golinia",
+        "url": "https://github.com/ehsan-golinia",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "position": "Researcher",
+      "company": "Islamic Azad University , South Tehran Branch",
+      "startDate": "2020-09-22",
+      "endDate": "2025",
+      "summary": "Computer Vision Projects",
+      "highlights": ["Image Classification", "Object Detection", "Image Segmentation"]
+    },
+    {
+      "position": "Web Developer",
+      "company": "Freelance",
+      "startDate": "2019-09-22",
+      "endDate": "2020-09-22",
+      "summary": "Front-End : HTML , CSS , Bootstrap",
+      "highlights": ["Back-End : Nodejs , PHP"]
+    },
+    {
+      "position": "Summer Intern",
+      "company": "Kimiyagar Qaem, Tehran, Iran",
+      "startDate": "2017-06-22",
+      "endDate": "2017-09-22",
+      "summary": "My first real work experience.",
+      "highlights": ["Interning as an civil engineer on construction project."]
+    },
+    {
+      "position": "Teaching Assistant",
+      "company": "University of Mazandaran, Mazandaran, Iran",
+      "startDate": "2016-02-13",
+      "endDate": "2016-06-15",
+      "summary": "Grading, project design, exam design, and holding tutorial sessions :",
+      "highlights": ["• Engineering Mechanics Statics – Instructor: Prof. Maryam Abedi"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of M9adeira",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-15",
+      "endDate": "2019-06-07",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Feature Extraction",
+      "level": "Intermediate",
+      "keywords": ["CV"]
+    },
+    {
+      "name": "Image Classification",
+      "level": "Intermediate",
+      "keywords": ["CV"]
+    },
+    {
+      "name": "Object Detection",
+      "level": "Intermediate",
+      "keywords": ["CV"]
+    },
+    {
+      "name": "Image Segmentation",
+      "level": "Intermediate",
+      "keywords": ["CV"]
+    },
+    {
+      "name": "Object Tracking",
+      "level": "Intermediate",
+      "keywords": ["CV"]
+    },
+    {
+      "name": "GANs",
+      "level": "Learning",
+      "keywords": ["CV"]
+    },
+
+
+
+
+
+
+    {
+      "name": "Classification",
+      "level": "Intermediate",
+      "keywords": ["ML"]
+    },
+    {
+      "name": "Regression",
+      "level": "Intermediate",
+      "keywords": ["ML"]
+    },
+    {
+      "name": "PCA",
+      "level": "Basic",
+      "keywords": ["ML"]
+    },
+    {
+      "name": "SVM",
+      "level": "Intermediate",
+      "keywords": ["ML"]
+    },
+    {
+      "name": "K-Means",
+      "level": "Intermediate",
+      "keywords": ["ML"]
+    },
+    {
+      "name": "Clustering",
+      "level": "Intermediate",
+      "keywords": ["ML"]
+    },
+    {
+      "name": "Clustering",
+      "level": "Intermediate",
+      "keywords": ["ML"]
+    },
+
+    {
+      "name": "MLP",
+      "level": "Advanced",
+      "keywords": ["DL"]
+    },
+    {
+      "name": "CNN",
+      "level": "Advanced",
+      "keywords": ["DL"]
+    },
+    {
+      "name": "RNN",
+      "level": "Basic",
+      "keywords": ["DL"]
+    },
+    {
+      "name": "GRU",
+      "level": "Basic",
+      "keywords": ["DL"]
+    },
+    {
+      "name": "LSTM",
+      "level": "Basic",
+      "keywords": ["DL"]
+    },
+    {
+      "name": "Transformers",
+      "level": "Learning",
+      "keywords": ["DL"]
+    },
+
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": ["Programming Languages"]
+    },
+    {
+      "name": "C++",
+      "level": "Basic",
+      "keywords": ["Programming Languages"]
+    },
+
+    {
+      "name": "Numpy, Pandas, Matplotlib",
+      "level": "Advanced",
+      "keywords": ["Packages"]
+    },
+    {
+      "name": "OpenCV",
+      "level": "Advanced",
+      "keywords": ["Packages"]
+    },
+    {
+      "name": "Scikit-Learn",
+      "level": "Intermediate",
+      "keywords": ["Packages"]
+    },
+    {
+      "name": "PyTorch",
+      "level": "Intermediate",
+      "keywords": ["Packages"]
+    },
+    {
+      "name": "Gymnasium (RL)",
+      "level": "Intermediate",
+      "keywords": ["Packages"]
+    },
+    {
+      "name": "TensorFlow, Keras",
+      "level": "Learning",
+      "keywords": ["Packages"]
+    },
+
+
+
+
+
+
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git, Github",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MySQL, MongoDB",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "QT",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Flask, FastAPI",
+      "level": "Intermediate",
+      "keywords": ["Packages"]
+    },
+
+
+
+
+
+
+    {
+      "name": "Essentials",
+      "level": "Intermediate",
+      "keywords": ["Linux"]
+    },
+    {
+      "name": "LPIC-1",
+      "level": "Intermediate",
+      "keywords": ["Linux"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Turkish",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Persian",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Lifetime Learner",
+      "x_icon": "fa-book fa-spin"
+    },
+    {
+      "name": "Music Lover",
+      "x_icon": "fa-music fa-spin"
+    },
+    {
+      "name": "Math Freak",
+      "x_icon": "fa-infinity fa-spin"
+    },
+    {
+      "name": "Volleyball Lover",
+      "x_icon": "fa-circle fa-spin"
+    },
+    {
+      "name": "Love is a Miracle",
+      "x_icon": "fa-heart fa-spin"
+    }
+  ]
+}
