@@ -31,9 +31,9 @@
       "position": "Researcher",
       "company": "Islamic Azad University , South Tehran Branch",
       "startDate": "2020-09-22",
-      "endDate": "2025",
+      "endDate": "2025-09",
       "summary": "Computer Vision Projects",
-      "highlights": ["Image Classification", "Object Detection", "Image Segmentation"]
+      "highlights": ["Image Classification, ", "Object Detection, ", "Image Segmentation"]
     },
     {
       "position": "Web Developer",
@@ -60,21 +60,7 @@
       "highlights": ["• Engineering Mechanics Statics – Instructor: Prof. Maryam Abedi"]
     }
   ],
-  "education": [
-    {
-      "institution": "University of M9adeira",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
-      "courses": [
-        "Object Oriented Programming",
-        "Database Management Systems",
-        "Operating systems and computers architectures",
-        "Requirements Engineering"
-      ]
-    }
-  ],
+
   "skills": [
     {
       "name": "Feature Extraction",
@@ -187,6 +173,11 @@
     {
       "name": "C++",
       "level": "Basic",
+      "keywords": ["Programming Languages"]
+    },
+    {
+      "name": "Rust",
+      "level": "Learning",
       "keywords": ["Programming Languages"]
     },
 
