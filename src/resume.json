@@ -42,22 +42,6 @@
       "endDate": "2020-09-22",
       "summary": "Front-End : HTML , CSS , Bootstrap",
       "highlights": ["Back-End : Nodejs , PHP"]
-    },
-    {
-      "position": "Summer Intern",
-      "company": "Kimiyagar Qaem, Tehran, Iran",
-      "startDate": "2017-06-22",
-      "endDate": "2017-09-22",
-      "summary": "My first real work experience.",
-      "highlights": ["Interning as an civil engineer on construction project."]
-    },
-    {
-      "position": "Teaching Assistant",
-      "company": "University of Mazandaran, Mazandaran, Iran",
-      "startDate": "2016-02-13",
-      "endDate": "2016-06-15",
-      "summary": "Grading, project design, exam design, and holding tutorial sessions :",
-      "highlights": ["• Engineering Mechanics Statics – Instructor: Prof. Maryam Abedi"]
     }
   ],
 
@@ -302,6 +286,44 @@
     {
       "name": "Love is a Miracle",
       "x_icon": "fa-heart fa-spin"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Neural Networks and Deep Learning",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/UEM4XTQBWFWE",
+      "badge": "images/certificates/dlai-logo-square.png"
+    },
+    {
+      "name": "Improving Deep Neural Networks",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/BP2S264FTMEQ",
+      "badge": "images/certificates/dlai-logo-square.png"
+    },
+    {
+      "name": "Structuring Machine Learning Projects",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/RKN649AJE6DB",
+      "badge": "images/certificates/dlai-logo-square.png"
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/L5BLADUXDDRE",
+      "badge": "images/certificates/dlai-logo-square.png"
+    },
+    {
+      "name": "Sequence Models",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/7XWNGBK6QJEH",
+      "badge": "images/certificates/dlai-logo-square.png"
+    },
+    {
+      "name": "Machine Learning with Python",
+      "issuer": "IBM",
+      "url": "https://www.coursera.org/account/accomplishments/verify/YP8YBXHTXUN8",
+      "badge": "images/certificates/IBM-Logo-Design-1972-present.png"
     }
   ]
 }

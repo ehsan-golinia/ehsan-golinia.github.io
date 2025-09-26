@@ -22,17 +22,17 @@ function Education() {
           </div>
 
 
-          <div class="column is-2">
+          {/* <div class="column is-2">
             <figure class="image container is-96x96">
               <img src={'images/iau2.png'} alt="IAU"/>
             </figure>
-          </div>
+          </div> */}
 
 
 
-          <div class="column is-4">
+          {/* <div class="column is-4">
             <p class="heading">September 2021 - present</p><p class="title is-4">MSc in Computer Engineering</p><p class="subtitle is-6">Islamic Azad University , South Tehran Branch</p><p class="subtitle is-6"><b>Major : Artificial Intelligence and Robotics</b></p><div class="content"><p class="title is-6">Courses</p><ul><li>Advanced Artificial Intelligence</li><li>Machine Learning</li><li>Digital Image Processing</li><li>Machine Vision</li><li>Neural Networks</li><li>Optimization</li><li>Digital Signal Processing</li><li>Stochastic Processes</li><li>MSc Thesis</li><li>...</li></ul></div>
-          </div>
+          </div> */}
           
 
         </div>
